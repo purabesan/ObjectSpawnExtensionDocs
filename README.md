@@ -1,0 +1,2 @@
+# ObjectSpawnExtensionDocs
+オブジェクトスポーン拡張機能の公開ドキュメントのみ。
